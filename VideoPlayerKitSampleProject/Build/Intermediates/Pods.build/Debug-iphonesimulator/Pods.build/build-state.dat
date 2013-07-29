@@ -1,0 +1,95 @@
+TPods
+v5
+r1
+cCheck dependencies
+cCompileC /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512C8AD5000000000062AD10
+t1361873621
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1375091136
+s3260
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c0000000051F639C00000000000000097
+t1375091136
+s151
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods-Facebook-iOS-SDK.a
+c0000000051F639BD00000000002C37C0
+t1375091133
+s2897856
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods-NSData+Base64.a
+c0000000051F639BB0000000000003D98
+t1375091131
+s15768
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods-REComposeViewController.a
+c0000000051F639BD0000000000075550
+t1375091133
+s480592
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods-ShareThis.a
+c0000000051F639BF00000000000DBF28
+t1375091135
+s900904
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods-VideoPlayerKit.a
+c0000000051F639C00000000000091B60
+t1375091136
+s596832
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods-cocoa-oauth.a
+c0000000051F639BE000000000000C6C8
+t1375091134
+s50888
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods.a
+t1375091136
+s4945768
+
+N/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m
+c0000000051F23FFE0000000000000070
+t1374830590
+s112
+
+CBuild AST from /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfd4dd88a71a6b741^70d2d88a71a6b741^---0#1#0#--18"Check dependencies36"8F096A45-C15E-4A5D-AB84-23F118A13C63-
+
+CCompileC /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396783936.119080
+e396783936.236322
+r1
+xCompileC
+x/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+x/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m27d81f4071a6b741^787f3c4071a6b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m0000000000000000^4023"CompileC /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/include -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers/cocoa-oauth -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers/Facebook-iOS-SDK -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers/NSData+Base64 -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers/REComposeViewController -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers/ShareThis -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods/Headers/VideoPlayerKit -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Pods-dummy.m -o /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"AB7643C1-3791-4DD9-9BE1-C242878220BF-
+
+CLibtool /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+s396783936.244116
+e396783936.643855
+r1
+xLibtool
+x/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Libtool /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods.a normal i38614943e4071a6b741^edd4a44071a6b741^---0#0#0#--1194"Libtool /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator -filelist /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-cocoa-oauth -lPods-VideoPlayerKit -lPods-ShareThis -lPods-REComposeViewController -lPods-NSData+Base64 -lPods-Facebook-iOS-SDK -o /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Build/Products/Debug-iphonesimulator/libPods.a36"4ACA7055-7493-4A36-9D87-7778C4592BF9-
+

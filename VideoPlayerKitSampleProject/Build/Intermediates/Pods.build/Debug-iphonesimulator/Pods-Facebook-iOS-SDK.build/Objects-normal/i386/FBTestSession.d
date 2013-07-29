@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBTestSession.m \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBTestSession.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBTestSession+Internal.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBSessionManualTokenCachingStrategy.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBSessionTokenCachingStrategy.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBSession+Protected.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBSession+Internal.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/JSON/FBSBJSON.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/JSON/FBSBJsonParser.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/JSON/FBSBJsonBase.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/JSON/FBSBJsonWriter.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBGraphUser.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBGraphPlace.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Facebook-iOS-SDK/src/FBGraphLocation.h

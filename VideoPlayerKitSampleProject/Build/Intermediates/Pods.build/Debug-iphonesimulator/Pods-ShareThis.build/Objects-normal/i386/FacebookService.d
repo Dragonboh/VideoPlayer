@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/ShareThis/Code/FacebookService.m \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/ShareThis/Code/FacebookService.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/ShareThis/Code/ShareThis.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FacebookSDK.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSession.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequest.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequestConnection.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphObject.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBError.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSettings.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBLoginView.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphUser.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphPlace.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphLocation.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBProfilePictureView.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBUserSettingsViewController.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBViewController.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBPlacePickerViewController.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBCacheDescriptor.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFriendPickerViewController.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphAction.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBNativeDialogs.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/REComposeViewController/REComposeViewController/REComposeViewController.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/REComposeViewController/REComposeViewController/REComposeSheetView.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/REComposeViewController/REComposeViewController/DEComposeTextView.h \
+  /Users/bp/VideoPlayerKit2/VideoPlayerKitSampleProject/Pods/REComposeViewController/REComposeViewController/REComposeBackgroundView.h

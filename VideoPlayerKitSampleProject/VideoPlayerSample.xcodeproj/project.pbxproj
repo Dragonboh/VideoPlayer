@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		44545B2C7C044D2C94C8F495 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 306545E1E0BB49D683EE986A /* libPods.a */; };
 		76A54BB1165566510041450E /* VideoPlayerSampleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76A54BB0165566510041450E /* VideoPlayerSampleView.m */; };
 		76D67AE1165419CA00CAC69A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76D67AE0165419CA00CAC69A /* UIKit.framework */; };
 		76D67AE3165419CA00CAC69A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76D67AE2165419CA00CAC69A /* Foundation.framework */; };
@@ -19,10 +18,11 @@
 		76D67AF5165419CA00CAC69A /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 76D67AF4165419CA00CAC69A /* Default@2x.png */; };
 		76D67AF7165419CA00CAC69A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 76D67AF6165419CA00CAC69A /* Default-568h@2x.png */; };
 		76D67B0216541A0200CAC69A /* VideoPlayerSampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76D67B0116541A0200CAC69A /* VideoPlayerSampleViewController.m */; };
+		E07E233117A2825F005A1B96 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E07E233017A2825F005A1B96 /* libPods.a */; };
+		E07E233917A28F17005A1B96 /* Pods.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = E07E233817A28F17005A1B96 /* Pods.xcconfig */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		306545E1E0BB49D683EE986A /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		76A54BAF165566510041450E /* VideoPlayerSampleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoPlayerSampleView.h; sourceTree = "<group>"; };
 		76A54BB0165566510041450E /* VideoPlayerSampleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoPlayerSampleView.m; sourceTree = "<group>"; };
 		76D67ADC165419CA00CAC69A /* VideoPlayerSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VideoPlayerSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -40,6 +40,8 @@
 		76D67AF6165419CA00CAC69A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		76D67B0016541A0200CAC69A /* VideoPlayerSampleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoPlayerSampleViewController.h; sourceTree = "<group>"; };
 		76D67B0116541A0200CAC69A /* VideoPlayerSampleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoPlayerSampleViewController.m; sourceTree = "<group>"; };
+		E07E233017A2825F005A1B96 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Release-iphoneos/libPods.a"; sourceTree = "<group>"; };
+		E07E233817A28F17005A1B96 /* Pods.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,10 +49,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E07E233117A2825F005A1B96 /* libPods.a in Frameworks */,
 				76D67AE1165419CA00CAC69A /* UIKit.framework in Frameworks */,
 				76D67AE3165419CA00CAC69A /* Foundation.framework in Frameworks */,
 				76D67AE5165419CA00CAC69A /* CoreGraphics.framework in Frameworks */,
-				44545B2C7C044D2C94C8F495 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,6 +62,7 @@
 		76D67AD1165419CA00CAC69A = {
 			isa = PBXGroup;
 			children = (
+				E07E233817A28F17005A1B96 /* Pods.xcconfig */,
 				76D67AE6165419CA00CAC69A /* VideoPlayerSample */,
 				76D67ADF165419CA00CAC69A /* Frameworks */,
 				76D67ADD165419CA00CAC69A /* Products */,
@@ -77,10 +80,10 @@
 		76D67ADF165419CA00CAC69A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E07E233017A2825F005A1B96 /* libPods.a */,
 				76D67AE0165419CA00CAC69A /* UIKit.framework */,
 				76D67AE2165419CA00CAC69A /* Foundation.framework */,
 				76D67AE4165419CA00CAC69A /* CoreGraphics.framework */,
-				306545E1E0BB49D683EE986A /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				76D67AF3165419CA00CAC69A /* Default.png in Resources */,
 				76D67AF5165419CA00CAC69A /* Default@2x.png in Resources */,
 				76D67AF7165419CA00CAC69A /* Default-568h@2x.png in Resources */,
+				E07E233917A28F17005A1B96 /* Pods.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,40 +274,50 @@
 		};
 		76D67AFB165419CA00CAC69A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E07E233817A28F17005A1B96 /* Pods.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
+					"$(SRCROOT)",
 					"$(inherited)",
-					"\"$(SRCROOT)\"",
 					"\"$(SRCROOT)/../../../Desktop/Cocoa_StreamStitcherDemo/StreamStitcherDemo\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VideoPlayerSample/VideoPlayerSample-Prefix.pch";
-				HEADER_SEARCH_PATHS = "${PODS_HEADERS_SEARCH_PATHS}";
+				HEADER_SEARCH_PATHS = "${PODS_HEADERS_SEARCH_PATHS}/**";
 				INFOPLIST_FILE = "VideoPlayerSample/VideoPlayerSample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PODS_BUILD_HEADERS_SEARCH_PATHS = "\"${PODS_ROOT}/BuildHeaders\" \"${PODS_ROOT}/BuildHeaders/cocoa-oauth\" \"${PODS_ROOT}/BuildHeaders/Facebook-iOS-SDK/FacebookSDK\" \"${PODS_ROOT}/BuildHeaders/NSData+Base64\" \"${PODS_ROOT}/BuildHeaders/REComposeViewController\" \"${PODS_ROOT}/BuildHeaders/ShareThis\" \"${PODS_ROOT}/BuildHeaders/VideoPlayerKit\"";
+				PODS_HEADERS_SEARCH_PATHS = "${PODS_BUILD_HEADERS_SEARCH_PATHS}";
+				PODS_ROOT = "${SRCROOT}/Pods";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				USER_HEADER_SEARCH_PATHS = "${PODS_HEADERS_SEARCH_PATHS}/**";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
 		76D67AFC165419CA00CAC69A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E07E233817A28F17005A1B96 /* Pods.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
+					"$(SRCROOT)",
 					"$(inherited)",
-					"\"$(SRCROOT)\"",
 					"\"$(SRCROOT)/../../../Desktop/Cocoa_StreamStitcherDemo/StreamStitcherDemo\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VideoPlayerSample/VideoPlayerSample-Prefix.pch";
-				HEADER_SEARCH_PATHS = "${PODS_HEADERS_SEARCH_PATHS}";
+				HEADER_SEARCH_PATHS = "${PODS_HEADERS_SEARCH_PATHS}/**";
 				INFOPLIST_FILE = "VideoPlayerSample/VideoPlayerSample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PODS_BUILD_HEADERS_SEARCH_PATHS = "\"${PODS_ROOT}/BuildHeaders\" \"${PODS_ROOT}/BuildHeaders/cocoa-oauth\" \"${PODS_ROOT}/BuildHeaders/Facebook-iOS-SDK/FacebookSDK\" \"${PODS_ROOT}/BuildHeaders/NSData+Base64\" \"${PODS_ROOT}/BuildHeaders/REComposeViewController\" \"${PODS_ROOT}/BuildHeaders/ShareThis\" \"${PODS_ROOT}/BuildHeaders/VideoPlayerKit\"";
+				PODS_HEADERS_SEARCH_PATHS = "${PODS_BUILD_HEADERS_SEARCH_PATHS}";
+				PODS_ROOT = "${SRCROOT}/Pods";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				USER_HEADER_SEARCH_PATHS = "${PODS_HEADERS_SEARCH_PATHS}/**";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
